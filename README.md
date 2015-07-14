@@ -1,2 +1,4 @@
 # hello-world
-New to GitHub
+=============
+This Tim, 
+New to GitHub, and getting ready for the ground work for We Got The Coder
